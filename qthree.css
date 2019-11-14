@@ -1,0 +1,73 @@
+
+
+.rect1{
+    height:100vh;
+    width:200vh;
+	
+}
+
+.rect1{
+background:blue;
+}
+
+.rect2{
+    height:50vh;
+    width:100vh;
+    position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.rect2{
+   background:red;
+}
+
+.rect3{
+    height:20vh;
+    width:50vh;
+    position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+.rect3{
+  background: green;
+}
+
+.rect4{
+    height:10vh;
+    width:25vh;
+    position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+.rect4{
+ background:blue;
+}
+
+.rect5{
+height:5vh;
+    width:12vh;
+    position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+.rect5{
+  background:red;
+}
+
+
+.rect6{
+height:2vh;
+    width:6vh;
+    position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+
+.rect6{
+  background: green;
+}
